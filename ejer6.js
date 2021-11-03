@@ -1,7 +1,7 @@
 "use strict";
 /**
- *
- *
+ * Ejer
+ * 6)
  */
 let estado = false;
 // Se crea la promesa

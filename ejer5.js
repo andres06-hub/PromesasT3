@@ -1,6 +1,7 @@
 "use strict";
 /**
- *
+ * Ejer
+ * 5)
  */
 // 1)
 // Se crea la 1 promesa que siempre se resuleve

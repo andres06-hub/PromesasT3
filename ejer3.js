@@ -1,6 +1,8 @@
 "use strict";
 /**
- * Ejer 3
+ *
+ * Ejer
+ * 3)
  */
 let estrato = 2;
 // creamos la promesa

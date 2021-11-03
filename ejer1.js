@@ -1,11 +1,8 @@
 "use strict";
 /**
- * 1)
+ * Ejer
  *
- * Cree y ejecute una promesa que siempre se resuelva,
- * y que lo haga con un string “Somos
- * programadores, hacemos mover el mundo”, de tal manera que en su
- * .then, se imprima tal string mediante console.log
+ * 1)
  */
 const promesaUno = new Promise((resolve, reject) => {
     resolve("Somos programadores, hacemos mover al mundo");

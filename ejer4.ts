@@ -1,11 +1,7 @@
 /**
- * Cree una promesa que implemente 4 métodos .then en cadena de tal manera
- * que la promesa se resuelva inicialmente con el valor 2 <resolve(2)> 
- * y los siguientes métodos .then eleven al cuadrado el valor pasado, 
- * imprimiendo al final el mensaje “el valor final es: X” donde x es el resultado 
- * final del encadenamiento.
+ * Ejer
+ * 4)
  */
-
 
 // Se crea la promesa 
 // Se define el tipo de la promesa 
